@@ -11,4 +11,7 @@ all thanks to [theBigWazz](https://github.com/TheBigWazz/ZenThemes)
 to use it:
 
 1. follow [this](https://docs.zen-browser.app/guides/live-editing) to create your chrome folder
-2. download zip or clone it to your chorme folder
+2. open about.config
+3. find mica and change to boolean and set it to ture
+4. find transparent and set to true
+5. download zip or clone it to your chorme folder
